@@ -3,3 +3,4 @@ Second line in file 4
 Third line in file 4
 New line 1
 Fourth line in file 4
+Another line in file 4
