@@ -1,3 +1,4 @@
 Contents of file 4
 Second line in file 4
 Third line in file 4
+Fifth line in file 4
